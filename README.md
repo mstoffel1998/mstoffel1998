@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure (Virtual Machine Configuration and Testing)</b>
   - [Virtual Machine Creation and Implementation](https://github.com/mstoffel1998/VM-Creation-IMP)
-  - [osTicket: Post-Installation Configuration](https://github.com/mstoffel1998/post-install-config)
+  - [Virtual Machine Utilization and Network Testing](https://github.com/mstoffel1998/VM-Network-Testing)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/mstoffel1998/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/mstoffel1998/post-install-config)

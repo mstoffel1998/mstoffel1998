@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Microsoft Azure (Virtual Machine Configuration and Testing)</b>
+  - [Virtual Machine Creation and Implementation](https://github.com/mstoffel1998/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/mstoffel1998/post-install-config)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/mstoffel1998/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/mstoffel1998/post-install-config)

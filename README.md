@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure (Virtual Machine Configuration and Testing)</b>
+- <b>Microsoft Azure (Virtual Machine Configuration and Implementation)</b>
   - [Virtual Machine Creation and Implementation](https://github.com/mstoffel1998/VM-Creation-IMP)
  
 
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure (Network Testing and Troubleshooting)</b>
    - [Virtual Machine Utilization and Network Testing](https://github.com/mstoffel1998/VM-Network-Testing)
 
 <h2>🤳Connect with me:</h2>

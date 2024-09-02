@@ -4,14 +4,10 @@
 
 - <b>Microsoft Azure (Virtual Machine Configuration and Testing)</b>
   - [Virtual Machine Creation and Implementation](https://github.com/mstoffel1998/VM-Creation-IMP)
-  - [Virtual Machine Utilization and Network Testing](https://github.com/mstoffel1998/VM-Network-Testing)
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/mstoffel1998/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/mstoffel1998/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/mstoffel1998/ticket-lifecycle)
+ 
+
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mstoffel1998/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mstoffel1998/azure-network-protocols)
+   - [Virtual Machine Utilization and Network Testing](https://github.com/mstoffel1998/VM-Network-Testing)
 
 <h2>🤳Connect with me:</h2>
 
